@@ -3,7 +3,6 @@
 <head>
 	<meta charset="utf-8">
 	<title>小小的世界</title>
-	<link href="" =“stylesheet” type="text/css" href="">
 </head>
 <body>
 <h1>欢迎来到俺滴世界</h1>
@@ -16,7 +15,3 @@
 <p>我现在有个极大的困惑（苦笑）SCC咋整啊啊啊，为啥自己编写了，也导入了，就是不出现相对路径名是啥，网上有现成文件不</p>
 </body>
 </html>
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
