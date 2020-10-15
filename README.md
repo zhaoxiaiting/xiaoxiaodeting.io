@@ -10,8 +10,8 @@
 			background-position: left top;
 			background-attachment: fixed;
 		}
-		.a{
-			padding: 1px
+		div{
+			margin-top: 1px
 		}
 	</style>
 </head>
@@ -28,14 +28,11 @@
 <p>有人若想毁掉它……怎么也得跟他拼了啊！</p>
 <img src="lz.jpg">
 <p>以前我以为看动漫是保有童心，相信童话，永远年轻，但现在是学会成长，或许无法像主角那样成功逆袭，但应该心怀憧憬，决不放弃</p>
-<h2>来一打大白</h2> 
-<ul class="a">
-	<li>.....︵       </li>
-	<li>.(\(●-●.)     </li>
-	<li>..\/...0\\    </li>
-	<li>..(.......)"  </li>
-	<li>...\__T__/    </li>
-
-</ul>             
+<h2>来一打大白</h2>              
+<div>(\(●-●.) </div>> 
+<div>.\/...0\\  </div>> 
+<div>.(........)" </div>> 
+<div>..\__T__/ </div>>   
 </body>
 </html>
+
